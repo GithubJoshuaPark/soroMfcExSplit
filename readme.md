@@ -1,4 +1,4 @@
-# Readme file for soroMfcExSplit
+### Readme file for soroMfcExSplit
 ---
 #### Splitter 이용하여 view 영역 아래와 같이 static 가르기
 
