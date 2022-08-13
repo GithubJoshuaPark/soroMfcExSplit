@@ -115,6 +115,7 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include="CMyHtmlView.htm" />
+    <None Include="readme.md" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="res\soroMfcExSplitDoc.ico">

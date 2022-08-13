@@ -8,11 +8,6 @@
 #include "CRightUpViewForSplitter.h"
 #include "CRightDownViewForSplitter.h"
 
-#define VIEWID_DEFAULT AFX_IDW_PANE_FIRST
-#define VIEWID_HTML    AFX_IDW_PANE_FIRST + 10
-#define VIEWID_EDIT    AFX_IDW_PANE_FIRST + 20
-#define VIEWID_LIST    AFX_IDW_PANE_FIRST + 30
-
 class CMainFrame : public CFrameWnd
 {
 	

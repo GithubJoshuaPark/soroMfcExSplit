@@ -227,6 +227,7 @@
     <None Include="CMyHtmlView.htm">
       <DeploymentContent>true</DeploymentContent>
     </None>
+    <None Include="readme.md" />
     <None Include="res\soroMfcExSplit.rc2" />
   </ItemGroup>
   <ItemGroup>
